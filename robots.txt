@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://guacc09.github.io/vestilight/sitemap.xml
