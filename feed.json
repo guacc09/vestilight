@@ -5,9 +5,24 @@
     "home_page_url": "https://guacc09.github.io/vestilight",
     "feed_url": "https://guacc09.github.io/vestilight/feed.json",
     "user_comment": "",
+    "icon": "https://guacc09.github.io/vestilight/media/website/Xin-Zeng-Ban-Mian-13.png",
     "author": {
         "name": "guacc"
     },
     "items": [
+        {
+            "id": "https://guacc09.github.io/vestilight/archives/test/",
+            "url": "https://guacc09.github.io/vestilight/archives/test/",
+            "title": "test",
+            "summary": "testtest",
+            "content_html": "<p>testtest</p>",
+            "author": {
+                "name": "guacc"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-18T18:08:58+08:00",
+            "date_modified": "2026-03-18T18:08:58+08:00"
+        }
     ]
 }
