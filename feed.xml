@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>殘光：Vestilight</title>
-    <link href="https://guacc09.github.io/vestilight/feed.xml" rel="self" />
-    <link href="https://guacc09.github.io/vestilight" />
+    <link href="https://guacci-09.github.io/vestilight/feed.xml" rel="self" />
+    <link href="https://guacci-09.github.io/vestilight" />
     <updated>2026-03-28T17:17:28+08:00</updated>
     <author>
         <name>guacc</name>
     </author>
-    <id>https://guacc09.github.io/vestilight</id>
+    <id>https://guacci-09.github.io/vestilight</id>
 
     <entry>
         <title>流星</title>
         <author>
             <name>guacc</name>
         </author>
-        <link href="https://guacc09.github.io/vestilight/archives/liu-xing/"/>
-        <id>https://guacc09.github.io/vestilight/archives/liu-xing/</id>
+        <link href="https://guacci-09.github.io/vestilight/archives/liu-xing/"/>
+        <id>https://guacci-09.github.io/vestilight/archives/liu-xing/</id>
             <category term="午夜小隊"/>
 
         <updated>2026-03-28T17:17:28+08:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>guacc</name>
         </author>
-        <link href="https://guacc09.github.io/vestilight/archives/nu-tong-ep01/"/>
-        <id>https://guacc09.github.io/vestilight/archives/nu-tong-ep01/</id>
+        <link href="https://guacci-09.github.io/vestilight/archives/nu-tong-ep01/"/>
+        <id>https://guacci-09.github.io/vestilight/archives/nu-tong-ep01/</id>
             <category term="女同"/>
 
         <updated>2026-03-28T16:12:28+08:00</updated>
@@ -59,8 +59,8 @@
         <author>
             <name>guacc</name>
         </author>
-        <link href="https://guacc09.github.io/vestilight/archives/test/"/>
-        <id>https://guacc09.github.io/vestilight/archives/test/</id>
+        <link href="https://guacci-09.github.io/vestilight/archives/test/"/>
+        <id>https://guacci-09.github.io/vestilight/archives/test/</id>
 
         <updated>2026-03-18T18:08:58+08:00</updated>
             <summary type="html">
