@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>殘光：Vestilight</title>
-    <link href="https://guacci-09.github.io/vestilight/feed.xml" rel="self" />
-    <link href="https://guacci-09.github.io/vestilight" />
+    <link href="https://vestilight.vercel.app/feed.xml" rel="self" />
+    <link href="https://vestilight.vercel.app" />
     <updated>2026-05-20T09:49:13+08:00</updated>
     <author>
         <name>guacci</name>
     </author>
-    <id>https://guacci-09.github.io/vestilight</id>
+    <id>https://vestilight.vercel.app</id>
 
     <entry>
         <title>編輯紀錄</title>
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/bian-ji-ji-lu/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/bian-ji-ji-lu/</id>
+        <link href="https://vestilight.vercel.app/archives/bian-ji-ji-lu/"/>
+        <id>https://vestilight.vercel.app/archives/bian-ji-ji-lu/</id>
 
         <updated>2026-05-20T09:49:13+08:00</updated>
             <summary type="html">
@@ -36,8 +36,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/tian-kong/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/tian-kong/</id>
+        <link href="https://vestilight.vercel.app/archives/tian-kong/"/>
+        <id>https://vestilight.vercel.app/archives/tian-kong/</id>
 
         <updated>2026-05-20T01:00:02+08:00</updated>
             <summary type="html">
@@ -79,8 +79,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/test/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/test/</id>
+        <link href="https://vestilight.vercel.app/archives/test/"/>
+        <id>https://vestilight.vercel.app/archives/test/</id>
 
         <updated>2026-05-19T22:01:00+08:00</updated>
             <summary type="html">
@@ -107,7 +107,7 @@
 <p> </p>
 <p> </p>
 <div class="story-nav-container">
-<div class="story-nav-link text-center"><a href="https://guacci-09.github.io/vestilight/story/">回殘光紀事</a></div>
+<div class="story-nav-link text-center"><a href="https://vestilight.vercel.app/story/">回殘光紀事</a></div>
 </div>
             ]]>
         </content>
@@ -117,8 +117,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep02/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep02/</id>
+        <link href="https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep02/"/>
+        <id>https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep02/</id>
             <category term="斑駁之下"/>
 
         <updated>2026-05-18T23:39:46+08:00</updated>
@@ -174,9 +174,9 @@
 <p> </p>
 <p> </p>
 <div class="story-nav-container">
-<div class="story-nav-link text-left"><a href="https://guacci-09.github.io/vestilight/archives/nu-tong-ep01/">← 上一章</a></div>
-<div class="story-nav-link text-center"><a href="https://guacci-09.github.io/vestilight/story/">回殘光紀事</a></div>
-<div class="story-nav-link text-right"><a href="https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep02/">下一章 →</a></div>
+<div class="story-nav-link text-left"><a href="https://vestilight.vercel.app/archives/nu-tong-ep01/">← 上一章</a></div>
+<div class="story-nav-link text-center"><a href="https://vestilight.vercel.app/story/">回殘光紀事</a></div>
+<div class="story-nav-link text-right"><a href="https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep02/">下一章 →</a></div>
 </div>
             ]]>
         </content>
@@ -186,8 +186,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/liu-xing/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/liu-xing/</id>
+        <link href="https://vestilight.vercel.app/archives/liu-xing/"/>
+        <id>https://vestilight.vercel.app/archives/liu-xing/</id>
             <category term="午夜小隊"/>
 
         <updated>2026-03-28T17:17:28+08:00</updated>
@@ -222,7 +222,7 @@
 <p> </p>
 <p> </p>
 <div class="story-nav-container">
-<div class="story-nav-link text-center"><a href="https://guacci-09.github.io/vestilight/story/">回殘光紀事</a></div>
+<div class="story-nav-link text-center"><a href="https://vestilight.vercel.app/story/">回殘光紀事</a></div>
 </div>
             ]]>
         </content>
@@ -232,8 +232,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/nu-tong-ep01/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/nu-tong-ep01/</id>
+        <link href="https://vestilight.vercel.app/archives/nu-tong-ep01/"/>
+        <id>https://vestilight.vercel.app/archives/nu-tong-ep01/</id>
             <category term="斑駁之下"/>
 
         <updated>2026-03-28T16:12:28+08:00</updated>
@@ -277,8 +277,8 @@
 <p> </p>
 <div class="story-nav-container">
 <div class="story-nav-link text-left"><a href="#INTERNAL_LINK#/page/上一章的網址">← 上一章</a></div>
-<div class="story-nav-link text-center"><a href="https://guacci-09.github.io/vestilight/story/">回殘光紀事</a></div>
-<div class="story-nav-link text-right"><a href="https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep02/">下一章 →</a></div>
+<div class="story-nav-link text-center"><a href="https://vestilight.vercel.app/story/">回殘光紀事</a></div>
+<div class="story-nav-link text-right"><a href="https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep02/">下一章 →</a></div>
 </div>
             ]]>
         </content>
@@ -288,8 +288,8 @@
         <author>
             <name>guacci</name>
         </author>
-        <link href="https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep00/"/>
-        <id>https://guacci-09.github.io/vestilight/archives/ban-bo-zhi-xia-ep00/</id>
+        <link href="https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep00/"/>
+        <id>https://vestilight.vercel.app/archives/ban-bo-zhi-xia-ep00/</id>
             <category term="斑駁之下"/>
 
         <updated>2026-03-20T08:56:00+08:00</updated>
