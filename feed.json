@@ -14,15 +14,15 @@
             "id": "https://vestilight.vercel.app/archives/bian-ji-ji-lu/",
             "url": "https://vestilight.vercel.app/archives/bian-ji-ji-lu/",
             "title": "編輯紀錄",
-            "summary": "Edit Log 2026/5/19 整體完成 2026/5/20 新增大中小標題顏色、新增紀年頁面",
-            "content_html": "<h4>Edit Log</h4>\n<p>2026/5/19 整體完成</p>\n<p>2026/5/20 新增大中小標題顏色、新增紀年頁面</p>",
+            "summary": "Edit Log 2026/5/19 整體完成 2026/5/20 新增大中小標題顏色、新增紀年頁面、搬移到vercel",
+            "content_html": "<h4>Edit Log</h4>\n<p>2026/5/19 整體完成</p>\n<p>2026/5/20 新增大中小標題顏色、新增紀年頁面、搬移到vercel</p>",
             "author": {
                 "name": "guacci"
             },
             "tags": [
             ],
             "date_published": "2026-05-20T09:49:13+08:00",
-            "date_modified": "2026-05-20T09:49:13+08:00"
+            "date_modified": "2026-05-20T12:51:05+08:00"
         },
         {
             "id": "https://vestilight.vercel.app/archives/tian-kong/",
